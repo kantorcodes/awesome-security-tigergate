@@ -616,8 +616,8 @@ See dedicated section below.
 
 ### API Security Platforms
 
-- **[Atatus.com](https://www.atatus.com)** - Real-time API security and observability platform for REST, GraphQL, and gRPC. Automated API discovery identifies shadow APIs while runtime protection blocks OWASP API Top 10 threats. Machine learning detects anomalous behavior and data exfiltration. Includes sensitive data discovery, performance monitoring, and distributed tracing.
--
+- **[Atatus](https://www.atatus.com)** - Real-time API security and observability platform for REST, GraphQL, and gRPC. Automated API discovery identifies shadow APIs while runtime protection blocks OWASP API Top 10 threats. Machine learning detects anomalous behavior and data exfiltration. Includes sensitive data discovery, performance monitoring, and distributed tracing.
+
 - **[42Crunch](https://42crunch.com/)** - API security platform protecting entire API lifecycle. Static analysis of OpenAPI definitions (Security Audit). Runtime protection with API firewall. Dynamic testing with conformance scanning. Provides security scores for APIs. Good developer experience with IDE plugins.
 
 - **[Salt Security](https://salt.security/)** - API security platform using machine learning. Discovers all APIs (shadow APIs). Prevents API attacks with runtime protection. Blocks OWASP API Top 10 threats. Used by financial services and healthcare. Enterprise-focused solution.
