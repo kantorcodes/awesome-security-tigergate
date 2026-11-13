@@ -426,6 +426,10 @@ See dedicated section below.
 
 ## Security Automation & Orchestration
 
+### AI Agent Runtime Protection
+
+- **[HOL Guard](https://hol.org/guard)** - Open-source security layer for AI coding agents and tools. It reviews supported shell commands, file access, package installs, and MCP actions before execution, then allows, blocks, or requests approval under local policy. It also scans plugins and agent configuration, records local decision receipts, and runs without a cloud account. Optional cloud features add shared history and team policy. Apache-2.0 licensed.
+
 ### SOAR Platforms
 
 - **[TheHive](https://thehive-project.org/)** - Open-source Security Incident Response Platform. Case management with customizable templates, task automation, and observable enrichment. Integrates with MISP, Cortex analyzers, and 50+ tools. REST API for automation. Web-based collaboration interface. Used by SOC teams worldwide. Commercial support available.
